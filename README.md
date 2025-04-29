@@ -1,2 +1,2 @@
 # pytube
-Meu primeiro contato com a lib e aperfeiçoando algumas habilidades
+Tendo meu primeiro contato com a lib e aperfeiçoando algumas habilidades

@@ -22,7 +22,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-learn.txt
+learned.txt
 
 # Para ignorar o conteúdo baixado
 *.mp4
+*.m4a

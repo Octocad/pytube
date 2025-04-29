@@ -25,5 +25,6 @@ Thumbs.db
 learned.txt
 
 # Para ignorar o conteúdo baixado
+pytube_videos/
 *.mp4
 *.m4a
